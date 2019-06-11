@@ -1,0 +1,4 @@
+node_modules
+android/app/build/outputs/apk
+android/app/my-release-key.keystore
+android/gradle.properties

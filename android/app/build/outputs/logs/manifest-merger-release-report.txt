@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\ebdd0ec5fd30247d24c70f86f62391f8\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\353f434c118fff3a7cb79057f0ceacf0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7e2c033dd82448d0c8cf97c6d86b7fcd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5bd04c1a11ddc2af2e7c87ef2545b92e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a51528ebef5bdee933b7148ed5f25100\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5703c02546b14af42d8f9d2f3161a911\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8f7f451d8ae18ebad17f0023b0322356\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0d95d8732d3b654bbfa17aa9c4fa59a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8516d6bf19ac0cc973994d790cb65dd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3295037edcfc42bbfdba07133e589ab5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3844f3f0a741ea20e9cc657c81a0d769\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\259a03e2930b4740a0888a3eb831d145\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b14d3cc953e5384930ba675dc9bd0f61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0b14894ac6f790e06a33539d7e27dd2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\dd5504041f6a826b202acb80ee26c1d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\22acc3696487c4377d36a3911280348c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\468e1a7203371c7d2f7c43c0ca204ca7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e2a0450369c707f35a1dad409ea436b9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9f9fd927d970249afebd8726341e9352\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4b25c39e98ab7c932741a0108fe0b8c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6965b2abc49fca34516c9c7b7544f13e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\09c7b15ba3b1c0445ec0db19b7eb9599\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\fdf1ab0e7b6fdcd5ee598374749f30cb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5ea49c778d35c976d7edbc610ec99def\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\83cb915227c17f1c9d0c2f7f1d165971\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5b7f3c4c2990e7f6c329387908ab7da2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\cf64be635aa5889d58f3d2a3dbb73ea9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\8b64ef0ea03171f6c50fa03abe78db98\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\06d888514e57b609a29274511d87b5f1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\81a425b75edbc9e13c9a478a898378cb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\17760248d2aa9f6ca01aadcc634bc801\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\d8f3ce9df093a866fc02deffb1dc77bb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\083abbd6d38b1a76e779900acfb36b8a\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\aae4788d22581ddc7797ca48ab2e3743\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:2:3-25
+		INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\ebdd0ec5fd30247d24c70f86f62391f8\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\ebdd0ec5fd30247d24c70f86f62391f8\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\22acc3696487c4377d36a3911280348c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\22acc3696487c4377d36a3911280348c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\468e1a7203371c7d2f7c43c0ca204ca7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\468e1a7203371c7d2f7c43c0ca204ca7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\083abbd6d38b1a76e779900acfb36b8a\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\083abbd6d38b1a76e779900acfb36b8a\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\22acc3696487c4377d36a3911280348c\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.tictacgo.MainActivity
+ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\ebdd0ec5fd30247d24c70f86f62391f8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\ebdd0ec5fd30247d24c70f86f62391f8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\353f434c118fff3a7cb79057f0ceacf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\353f434c118fff3a7cb79057f0ceacf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7e2c033dd82448d0c8cf97c6d86b7fcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7e2c033dd82448d0c8cf97c6d86b7fcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5bd04c1a11ddc2af2e7c87ef2545b92e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5bd04c1a11ddc2af2e7c87ef2545b92e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a51528ebef5bdee933b7148ed5f25100\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a51528ebef5bdee933b7148ed5f25100\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5703c02546b14af42d8f9d2f3161a911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5703c02546b14af42d8f9d2f3161a911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8f7f451d8ae18ebad17f0023b0322356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8f7f451d8ae18ebad17f0023b0322356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0d95d8732d3b654bbfa17aa9c4fa59a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0d95d8732d3b654bbfa17aa9c4fa59a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8516d6bf19ac0cc973994d790cb65dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8516d6bf19ac0cc973994d790cb65dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3295037edcfc42bbfdba07133e589ab5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3295037edcfc42bbfdba07133e589ab5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3844f3f0a741ea20e9cc657c81a0d769\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3844f3f0a741ea20e9cc657c81a0d769\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\259a03e2930b4740a0888a3eb831d145\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\259a03e2930b4740a0888a3eb831d145\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b14d3cc953e5384930ba675dc9bd0f61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b14d3cc953e5384930ba675dc9bd0f61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0b14894ac6f790e06a33539d7e27dd2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0b14894ac6f790e06a33539d7e27dd2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\dd5504041f6a826b202acb80ee26c1d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\dd5504041f6a826b202acb80ee26c1d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\22acc3696487c4377d36a3911280348c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\22acc3696487c4377d36a3911280348c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\468e1a7203371c7d2f7c43c0ca204ca7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\468e1a7203371c7d2f7c43c0ca204ca7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e2a0450369c707f35a1dad409ea436b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e2a0450369c707f35a1dad409ea436b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9f9fd927d970249afebd8726341e9352\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9f9fd927d970249afebd8726341e9352\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4b25c39e98ab7c932741a0108fe0b8c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4b25c39e98ab7c932741a0108fe0b8c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6965b2abc49fca34516c9c7b7544f13e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6965b2abc49fca34516c9c7b7544f13e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\09c7b15ba3b1c0445ec0db19b7eb9599\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\09c7b15ba3b1c0445ec0db19b7eb9599\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\fdf1ab0e7b6fdcd5ee598374749f30cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\fdf1ab0e7b6fdcd5ee598374749f30cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5ea49c778d35c976d7edbc610ec99def\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5ea49c778d35c976d7edbc610ec99def\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\83cb915227c17f1c9d0c2f7f1d165971\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\83cb915227c17f1c9d0c2f7f1d165971\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5b7f3c4c2990e7f6c329387908ab7da2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5b7f3c4c2990e7f6c329387908ab7da2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\cf64be635aa5889d58f3d2a3dbb73ea9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\cf64be635aa5889d58f3d2a3dbb73ea9\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\8b64ef0ea03171f6c50fa03abe78db98\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\8b64ef0ea03171f6c50fa03abe78db98\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\06d888514e57b609a29274511d87b5f1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\06d888514e57b609a29274511d87b5f1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\81a425b75edbc9e13c9a478a898378cb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\81a425b75edbc9e13c9a478a898378cb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\17760248d2aa9f6ca01aadcc634bc801\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\17760248d2aa9f6ca01aadcc634bc801\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\d8f3ce9df093a866fc02deffb1dc77bb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\d8f3ce9df093a866fc02deffb1dc77bb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\083abbd6d38b1a76e779900acfb36b8a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\083abbd6d38b1a76e779900acfb36b8a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\aae4788d22581ddc7797ca48ab2e3743\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\aae4788d22581ddc7797ca48ab2e3743\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\projects\react native\TicTacGo\android\app\src\main\AndroidManifest.xml
